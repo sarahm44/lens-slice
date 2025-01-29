@@ -1,11 +1,11 @@
-# Len's Slice
+# Codecademy Project: Len's Slice
 
 ![""](https://github.com/sarahm44/lens-slice/blob/main/pizza.jpg)
 
 ## Overview
 For this project, I imagine I work at Len’s Slice, a new pizza joint in the neighborhood. I use my knowledge of Python lists to organize some of my sales data.
 
-The notebook containing the code is [here](https://github.com/sarahm44/lens-slice/blob/main/lens_slices.py).
+The Python notebook containing the code is [here](https://github.com/sarahm44/lens-slice/blob/main/lens_slices.py).
 
 ## Tasks
 ### Make Some Pizzas
